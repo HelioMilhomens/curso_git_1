@@ -1,1 +1,5 @@
 a.txt
+Testando
+uma
+atualização de
+arquivo
